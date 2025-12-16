@@ -6,16 +6,16 @@ Each module represents a specific stage of the data lifecycle, emphasizing techn
 
 ## Repository Structure
 
-### Data Ingestion
+### 1. Data Ingestion
 Focuses on robust methods for extracting data from diverse sources including flat files, SQL databases, and APIs. These patterns prioritize schema validation and secure connection handling.
 
-### Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 Standardized approaches to statistical profiling, distribution analysis, and identifying multivariate relationships to ensure deep data understanding before modeling.
 
-### Data Cleaning & Transformation
+### 3. Data Cleaning & Transformation
 Systematic procedures for handling missing values, outlier detection, and feature engineering while maintaining data lineage and integrity.
 
-*will add more in the later phases*
+##### *will add more in the later phase of the project*
 
 ## Methodology
 Every framework within this cookbook follows three core principles:
